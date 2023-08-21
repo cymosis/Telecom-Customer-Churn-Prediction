@@ -1,1 +1,1 @@
-# Telecom-Customer-Churn-Prediction
+# LP2-Classification-Project
